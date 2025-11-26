@@ -40,7 +40,7 @@
 
 ## 📫 Let's Connect
 
-- [🌐 LinkedIn](https://www.linkedin.com/in/jyot-shah-b8582b322/)  
+- [🌐 LinkedIn](https://www.linkedin.com/in/jyotshah1/)  
 - [📂 Credly](https://www.credly.com/users/jyot-shah)  
 - ✉️ Reach me at: `jyotshah1595@gmail.com`
 
