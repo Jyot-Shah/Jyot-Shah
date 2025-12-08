@@ -7,7 +7,7 @@
 ---
 
 ## 🔧 Technologies & Tools
-- **Languages**: Python, C, SQL, JavaScript, HTML, CSS  
+- **Languages**: Python, C++, SQL, JavaScript, HTML, CSS  
 - **ML/DL Frameworks**: TensorFlow, PyTorch, Scikit-learn, Keras, OpenCV  
 - **Other**: OCR, Data Analysis, Neural Networks, NLP, Git, MySQL, MongoDB, Google Colab
 
