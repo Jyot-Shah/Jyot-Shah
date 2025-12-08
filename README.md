@@ -31,6 +31,7 @@
 - 📙 **IIT Madras, NPTEL - Introduction to Machine Learning**
 - 🧩 **Oracle Academy – Database Programming with SQL**  
 - 🔍 **CodeChef – DSA Lab Certification**
+- 🐍 **Cisco Networking Academy - Python Essentials 1 & 2**
 
 ---
 
