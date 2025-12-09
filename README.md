@@ -10,7 +10,7 @@
 - **Languages**: Python, C++, SQL, JavaScript, HTML, CSS
 - **Web Development (MERN)**: React.js, Node.js, Express.js, MongoDB, REST APIs, Authentication & JWT, Tailwind CSS / Bootstrap
 - **ML/DL Frameworks**: TensorFlow, PyTorch, Scikit-learn, Keras, OpenCV  
-- **Other**: OCR, Data Analysis, Neural Networks, NLP, Git, MySQL, MongoDB, Google Colab
+- **Other**: OCR, Data Analysis, Neural Networks, Computer Vision, NLP, Git, MySQL, MongoDB, Google Colab
 
 ---
 
