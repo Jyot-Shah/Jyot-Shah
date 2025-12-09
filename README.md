@@ -18,7 +18,7 @@
 
 - 🧠 **Emotion-Based Song Recommendation Chatbot** – NLP + sentiment detection to recommend mood-based music  
 - 🏠 **Wanderlust (Airbnb Clone)** – MERN-powered platform replicating booking, listings, authentication and UI workflows  
-- 🌿 **Plant Disease Detection using YOLOv11** – Leveraged YOLOv11 for real-time leaf disease detection along with Google's Gemini AI-chatbot integration
+- 🌿 **Plant Disease Detection & Treatment** – Real-time leaf disease detection(YOLOv11) along with Google's Gemini AI-chatbot integration
 - 📊 **MoneyMatic** – OCR + ML system for financial document intelligence; integrated with MongoDB backend
 
 ---
