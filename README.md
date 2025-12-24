@@ -37,7 +37,7 @@
 
 ## 🏆 Achievements
 - 🎖️ Dean’s List Award – 1st, 2nd and 4th Semester  
-- 📚 Current CGPA: **9.37**  
+- 📚 Current CGPA: **9.25**  
 - 🤖 Participant in AI/ML Hackathons
 
 ---
