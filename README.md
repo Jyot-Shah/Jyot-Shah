@@ -16,9 +16,10 @@
 
 ## 📌 Featured Projects
 
-- 🧠 **Emotion-Based Song Recommendation Chatbot** – NLP + sentiment detection to recommend mood-based music  
-- 🏠 **Wanderlust (Airbnb Clone)** – MERN-powered platform replicating booking, listings, authentication and UI workflows  
 - 🌿 **Plant Disease Detection & Treatment** – Real-time leaf disease detection(YOLOv11) along with Google's Gemini AI-chatbot integration
+- 🛰️ **InfraGhost AI** – AI-powered infrastructure verification system using Gemini Vision to analyze geotagged reports and generate automated asset authenticity scores
+- 🏠 **Wanderlust (Airbnb Clone)** – MERN-powered platform replicating booking, listings, authentication and UI workflows  
+- 🧠 **Emotion-Based Song Recommendation Chatbot** – NLP + sentiment detection to recommend mood-based music  
 - 📊 **MoneyMatic** – OCR + ML system for financial document intelligence; integrated with MongoDB backend
 
 ---
@@ -32,6 +33,7 @@
 - 🧩 **Oracle Academy – Database Programming with SQL**  
 - 🔍 **CodeChef – DSA Lab Certification**
 - 🐍 **Cisco Networking Academy - Python Essentials 1 & 2**
+- 🌐 **Cisco Networking Academy — CCNA: Switching, Routing, and Wireless Essentials**
 
 ---
 
@@ -45,7 +47,8 @@
 ## 📫 Let's Connect
 
 - [🌐 LinkedIn](https://www.linkedin.com/in/jyotshah1/)  
-- [📂 Credly](https://www.credly.com/users/jyot-shah)  
+- [📂 Credly](https://www.credly.com/users/jyot-shah)
+- [💼 Portfolio](https://jyotshah.vercel.app/)
 - ✉️ Reach me at: `jyotshah1595@gmail.com`
 
 ---
