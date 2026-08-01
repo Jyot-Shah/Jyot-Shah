@@ -1,92 +1,50 @@
-# 👋 Hi, I'm Jyot Shah
+# Hi, I'm Jyot Shah
 
-🎓 **B.Tech. Computer Science & Engineering (AI & ML)**  
-Manipal University Jaipur (Expected 2027)
+Computer Science & Engineering (AI & ML) undergraduate at **Manipal University Jaipur** (Expected 2027)
 
-Passionate about **AI Systems, Deep Learning, Computer Vision, RAG, LLM Applications, and Full Stack Software Development**, with a focus on building production ready AI products that solve real world engineering problems.
-
----
-
-## 🔧 Tech Stack
-
-### 💻 Languages
-- Python
-- C++
-- SQL
-- JavaScript
-- HTML
-- CSS
-
-### 🌐 Full Stack Development
-- React.js
-- Node.js
-- Express.js
-- Flask
-- MongoDB
-- MySQL
-- EJS
-- RESTful APIs
-- Authentication (JWT)
-
-### 🤖 AI / Machine Learning
-- TensorFlow
-- Scikit-learn
-- Keras
-- OpenCV
-- Pillow
-- NumPy
-- Pandas
-- YOLOv11
-- Google Gemini API
-
-### 🧠 AI Systems
-- Retrieval Augmented Generation (RAG)
-- AI Agents
-- Vector Embeddings
-- Retrieval Systems
-- LLM Integration
-
-### 🛠 Tools & Platforms
-- Git
-- GitHub
-- Docker
-- Redis
-- Qdrant
-- Vercel
-- Render
-- Google Colab
-- Kaggle Code
+Passionate about **AI Systems, Deep Learning, Computer Vision, Retrieval Augmented Generation (RAG), LLM Applications, and Full Stack Software Development**, with a focus on building production ready AI products that solve real world engineering problems.
 
 ---
 
-# 📌 Featured Projects
+- ## Tech Stack
 
-### 🔥 Forge — AI Developer Workspace
+**Languages**  
+Python • C++ • SQL • JavaScript • HTML • CSS
+
+**Full Stack**  
+React.js • Node.js • Express.js • Flask • MongoDB • MySQL • EJS • RESTful APIs • JWT Authentication
+
+**AI / Machine Learning**  
+TensorFlow • Scikit-learn • Keras • OpenCV • Pillow • NumPy • Pandas • YOLOv11 • Google Gemini API
+
+**AI Systems**  
+Retrieval Augmented Generation (RAG) • AI Agents • Vector Embeddings • Retrieval Systems • LLM Integration
+
+**Tools & Platforms**  
+Git • GitHub • Docker • Redis • Qdrant • Vercel • Render • Google Colab • Kaggle Code
+
+---
+
+- ## Featured Projects
+
+### Forge — AI Developer Workspace
 AI powered developer workspace built using **MERN, Redis, Qdrant, Docker, and Google Gemini** that enables project aware conversations through Retrieval Augmented Generation (RAG). Supports hybrid retrieval using Reciprocal Rank Fusion (RRF) with asynchronous document indexing powered by BullMQ and Redis.
 
----
-
-### 🛰️ InfraGhost AI
+### InfraGhost AI
 AI powered infrastructure verification platform using **Gemini Vision** to analyze geotagged infrastructure reports and compute automated **Ghost Scores** for asset authenticity. Features secure backend architecture, Mapbox analytics dashboard, MongoDB integration, and PDF reporting.
 
----
+### Plant Leaf Disease Detection & Treatment System
+Real time plant disease detection using a custom trained **YOLOv11** model with Google Gemini powered treatment recommendations. Built with Flask and optimized preprocessing to provide fast annotated predictions and intelligent agricultural assistance.
 
-### 🌿 Plant Leaf Disease Detection & Treatment System
-Real time plant disease detection using a custom trained **YOLOv11** model with **Google Gemini** powered treatment recommendations. Built with Flask and optimized preprocessing to provide fast annotated predictions and intelligent agricultural assistance.
+### Wanderlust (Airbnb Clone)
+Full stack MERN application replicating Airbnb functionality with authentication, property listings, Cloudinary image uploads, Mapbox integration, and a responsive user interface.
 
----
-
-### 🏠 Wanderlust (Airbnb Clone)
-Full stack MERN application replicating Airbnb functionality with authentication, property listings, Cloudinary image uploads, Mapbox integration, and responsive UI.
-
----
-
-### 🧠 Emotion Based Song Recommendation Chatbot
+### Emotion Based Song Recommendation Chatbot
 NLP based chatbot that performs sentiment analysis on user input and recommends personalized music according to emotional context.
 
 ---
 
-## 🔬 Research
+- ## Research
 
 ### Hierarchical Vision Transformer Ensemble for Robust Plant Leaf Disease Classification
 
@@ -94,51 +52,45 @@ Currently researching a hierarchical Vision Transformer architecture with parent
 
 ---
 
-## 📜 Certifications
+- ## Certifications
 
-- 🧠 IBM AI Engineering Professional Certificate (Coursera)
-- 🚀 Sigma 8.0 — MERN Stack + DSA (Apna College)
-- 📘 IIT Madras, NPTEL — Data Structures and Algorithms using Python
-- 📗 IIT Madras, NPTEL — Design and Analysis of Algorithms
-- 📙 IIT Madras, NPTEL — Introduction to Machine Learning
-- 🧩 Oracle Academy — Database Programming with SQL
-- 🔍 CodeChef — DSA Lab Certification
-- 🐍 Cisco Networking Academy — Python Essentials 1 & 2
-- 🌐 Cisco Networking Academy — CCNA: Switching, Routing, and Wireless Essentials
-
----
-
-## 🏆 Achievements
-
-- 🎖️ Dean's List Award for Academic Excellence (1st, 2nd & 4th Semester)
-- 📚 Current CGPA: **9.21 / 10**
-- 🤖 Active Participant in AI/ML Hackathons
+- IBM AI Engineering Professional Certificate (Coursera)
+- Sigma 8.0 — MERN Stack + DSA (Apna College)
+- IIT Madras, NPTEL — Data Structures and Algorithms using Python
+- IIT Madras, NPTEL — Design and Analysis of Algorithms
+- IIT Madras, NPTEL — Introduction to Machine Learning
+- Oracle Academy — Database Programming with SQL
+- CodeChef — DSA Lab Certification
+- Cisco Networking Academy — Python Essentials 1 & 2
+- Cisco Networking Academy — CCNA: Switching, Routing, and Wireless Essentials
 
 ---
 
-## 📫 Let's Connect
+- ## Achievements
 
-🌐 **Portfolio**  
-https://jyotshah.vercel.app/
+- Dean's List Award for Academic Excellence (1st, 2nd & 4th Semester)
+- Current CGPA: **9.21 / 10**
 
-💼 **LinkedIn**  
+---
+
+- ## Connect
+
+**Portfolio**  
+https://jyotshah.vercel.app
+
+**LinkedIn**  
 https://www.linkedin.com/in/jyotshah1/
 
-💻 **GitHub**  
+**GitHub**  
 https://github.com/JyotShah
 
-🏅 **Credly**  
+**Credly**  
 https://www.credly.com/users/jyot-shah
 
-✉️ **Email**  
-jyotshah1595@gmail.com
+**Email**  
+mailto:jyotshah1595@gmail.com
 
 ---
 
-<div align="center">
-
-### Thanks for visiting my profile!
-
-*"Building intelligent systems that bridge cutting edge AI research with practical software engineering."*
-
-</div>
+> *"The future belongs to those who learn more skills and combine them in creative ways."*  
+> **— Robert Greene**
