@@ -1,56 +1,144 @@
 # 👋 Hi, I'm Jyot Shah
 
-🎓 B.Tech CSE (AI & ML) student at Manipal University Jaipur (Expected 2027)
+🎓 **B.Tech. Computer Science & Engineering (AI & ML)**  
+Manipal University Jaipur (Expected 2027)
 
-🚀 Passionate about Deep Learning, NLP, Computer Vision, and Full-Stack Web Development, especially building systems that deliver real-world value.
+Passionate about **AI Systems, Deep Learning, Computer Vision, RAG, LLM Applications, and Full Stack Software Development**, with a focus on building production ready AI products that solve real world engineering problems.
 
 ---
 
 ## 🔧 Tech Stack
-- **Languages**: Python, C++, SQL, JavaScript, HTML, CSS
-- **Web Development (MERN)**: React.js, Node.js, Express.js, MongoDB, REST APIs, Authentication & JWT, Tailwind CSS / Bootstrap
-- **ML/DL Frameworks**: TensorFlow, PyTorch, Scikit-learn, Keras, OpenCV  
-- **Other**: OCR, Data Analysis, Neural Networks, Computer Vision, NLP, Git, MySQL, MongoDB, Google Colab
+
+### 💻 Languages
+- Python
+- C++
+- SQL
+- JavaScript
+- HTML
+- CSS
+
+### 🌐 Full Stack Development
+- React.js
+- Node.js
+- Express.js
+- Flask
+- MongoDB
+- MySQL
+- EJS
+- RESTful APIs
+- Authentication (JWT)
+
+### 🤖 AI / Machine Learning
+- TensorFlow
+- Scikit-learn
+- Keras
+- OpenCV
+- Pillow
+- NumPy
+- Pandas
+- YOLOv11
+- Google Gemini API
+
+### 🧠 AI Systems
+- Retrieval Augmented Generation (RAG)
+- AI Agents
+- Vector Embeddings
+- Retrieval Systems
+- LLM Integration
+
+### 🛠 Tools & Platforms
+- Git
+- GitHub
+- Docker
+- Redis
+- Qdrant
+- Vercel
+- Render
+- Google Colab
+- Kaggle Code
 
 ---
 
-## 📌 Featured Projects
+# 📌 Featured Projects
 
-- 🌿 **Plant Disease Detection & Treatment** – Real-time leaf disease detection(YOLOv11) along with Google's Gemini AI-chatbot integration
-- 🛰️ **InfraGhost AI** – AI-powered infrastructure verification system using Gemini Vision to analyze geotagged reports and generate automated asset authenticity scores
-- 🏠 **Wanderlust (Airbnb Clone)** – MERN-powered platform replicating booking, listings, authentication and UI workflows  
-- 🧠 **Emotion-Based Song Recommendation Chatbot** – NLP + sentiment detection to recommend mood-based music  
-- 📊 **MoneyMatic** – OCR + ML system for financial document intelligence; integrated with MongoDB backend
+### 🔥 Forge — AI Developer Workspace
+AI powered developer workspace built using **MERN, Redis, Qdrant, Docker, and Google Gemini** that enables project aware conversations through Retrieval Augmented Generation (RAG). Supports hybrid retrieval using Reciprocal Rank Fusion (RRF) with asynchronous document indexing powered by BullMQ and Redis.
+
+---
+
+### 🛰️ InfraGhost AI
+AI powered infrastructure verification platform using **Gemini Vision** to analyze geotagged infrastructure reports and compute automated **Ghost Scores** for asset authenticity. Features secure backend architecture, Mapbox analytics dashboard, MongoDB integration, and PDF reporting.
+
+---
+
+### 🌿 Plant Leaf Disease Detection & Treatment System
+Real time plant disease detection using a custom trained **YOLOv11** model with **Google Gemini** powered treatment recommendations. Built with Flask and optimized preprocessing to provide fast annotated predictions and intelligent agricultural assistance.
+
+---
+
+### 🏠 Wanderlust (Airbnb Clone)
+Full stack MERN application replicating Airbnb functionality with authentication, property listings, Cloudinary image uploads, Mapbox integration, and responsive UI.
+
+---
+
+### 🧠 Emotion Based Song Recommendation Chatbot
+NLP based chatbot that performs sentiment analysis on user input and recommends personalized music according to emotional context.
+
+---
+
+## 🔬 Research
+
+### Hierarchical Vision Transformer Ensemble for Robust Plant Leaf Disease Classification
+
+Currently researching a hierarchical Vision Transformer architecture with parent child attention, lightweight model ensembling, and hybrid loss functions for robust plant disease classification across **80K+ images** and **30+ disease classes** while improving generalization under domain shift.
 
 ---
 
 ## 📜 Certifications
-- 🧠 **Coursera - IBM AI Engineering Certificate**
-- 🚀 **Apna College - Sigma 8.0 (MERN Stack + DSA) Certification**
-- 📘 **IIT Madras, NPTEL – Data Structures and Algorithms using Python**  
-- 📗 **IIT Madras, NPTEL – Design and Analysis of Algorithms**
-- 📙 **IIT Madras, NPTEL - Introduction to Machine Learning**
-- 🧩 **Oracle Academy – Database Programming with SQL**  
-- 🔍 **CodeChef – DSA Lab Certification**
-- 🐍 **Cisco Networking Academy - Python Essentials 1 & 2**
-- 🌐 **Cisco Networking Academy — CCNA: Switching, Routing, and Wireless Essentials**
+
+- 🧠 IBM AI Engineering Professional Certificate (Coursera)
+- 🚀 Sigma 8.0 — MERN Stack + DSA (Apna College)
+- 📘 IIT Madras, NPTEL — Data Structures and Algorithms using Python
+- 📗 IIT Madras, NPTEL — Design and Analysis of Algorithms
+- 📙 IIT Madras, NPTEL — Introduction to Machine Learning
+- 🧩 Oracle Academy — Database Programming with SQL
+- 🔍 CodeChef — DSA Lab Certification
+- 🐍 Cisco Networking Academy — Python Essentials 1 & 2
+- 🌐 Cisco Networking Academy — CCNA: Switching, Routing, and Wireless Essentials
 
 ---
 
 ## 🏆 Achievements
-- 🎖️ Dean’s List Award – 1st, 2nd and 4th Semester  
-- 📚 Current CGPA: **9.21**  
-- 🤖 Participant in AI/ML Hackathons
+
+- 🎖️ Dean's List Award for Academic Excellence (1st, 2nd & 4th Semester)
+- 📚 Current CGPA: **9.21 / 10**
+- 🤖 Active Participant in AI/ML Hackathons
 
 ---
 
 ## 📫 Let's Connect
 
-- [🌐 LinkedIn](https://www.linkedin.com/in/jyotshah1/)  
-- [📂 Credly](https://www.credly.com/users/jyot-shah)
-- [💼 Portfolio](https://jyotshah.vercel.app/)
-- ✉️ Reach me at: `jyotshah1595@gmail.com`
+🌐 **Portfolio**  
+https://jyotshah.vercel.app/
+
+💼 **LinkedIn**  
+https://www.linkedin.com/in/jyotshah1/
+
+💻 **GitHub**  
+https://github.com/JyotShah
+
+🏅 **Credly**  
+https://www.credly.com/users/jyot-shah
+
+✉️ **Email**  
+jyotshah1595@gmail.com
 
 ---
 
-> “The future belongs to those who learn more skills and combine them in creative ways.” – Robert Greene
+<div align="center">
+
+### Thanks for visiting my profile!
+
+*"Building intelligent systems that bridge cutting edge AI research with practical software engineering."*
+
+</div>
