@@ -6,7 +6,7 @@ Manipal University Jaipur (Expected 2027)
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=26&pause=200&color=40E0D0&center=true&vCenter=true&width=1000&lines=AI+SYSTEMS+ARCHITECT;MACHINE+LEARNING+ENGINEER;FULL+STACK+DEVELOPER" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=26&pause=200&color=40E0D0&center=true&vCenter=true&width=1000&lines=AI+SYSTEMS+ARCHITECT;ML+ENGINEER;FULL+STACK+DEVELOPER" />
 </p>
 
 <p align="center">
